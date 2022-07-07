@@ -17,7 +17,7 @@
 - [zlib](https://zlib.net/)
 - [gzip-hpp](https://github.com/mapbox/gzip-hpp)
 
-　zlib、gzip-hppの導入手順は、「[【C++】gzip形式にて、ファイルを圧縮・解凍する](https://hirokio.jp/programming/cpp-gzip/)」にて解説しています。
+　zlib、gzip-hppの導入手順は、「[【C++】gzip形式にて、ファイルを圧縮・展開する](https://hirokio.jp/programming/cpp-gzip/)」にて解説しています。
 
 ## 作者
 
